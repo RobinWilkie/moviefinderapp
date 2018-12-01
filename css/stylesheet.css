@@ -1,0 +1,53 @@
+body {
+  background-color: #1a1a1a;
+}
+
+p,
+h1,
+h2,
+h3,
+h4 {
+  color: #fff;
+}
+
+.logo {
+  width: 50px;
+  margin: -8px 10px 0 10px;
+}
+
+input {
+  border-radius: 8px !important;
+}
+
+.card-body {
+  background-color: #000 !important;
+}
+
+#movieSearch,
+#movie {
+  margin-top: 2rem;
+}
+
+#movieOutput {
+  margin-top: 1rem;
+}
+
+.posterImage {
+  width: 100%;
+}
+
+#movies .col-md-3 .well {
+  height: 390px;
+}
+
+#movies .col-md-3 .btn {
+  width: 100%;
+}
+
+#movieDetails img {
+  width: 80%;
+}
+
+.overview {
+  margin: 1rem 0;
+}
